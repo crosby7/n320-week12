@@ -4,3 +4,12 @@
 
 Init Express
 /\*page/ regex instead of wildcard
+
+| Name      |
+| --------- |
+| Cow       |
+| Cat       |
+| Crow      |
+| Crocodile |
+| Chimp     |
+| Cheetah   |
